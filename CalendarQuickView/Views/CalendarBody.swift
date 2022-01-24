@@ -63,6 +63,7 @@ struct CalendarBody: View {
                                     dayShape: self.dayShape,
                                     month: self.displayMonth)
                             .padding(.vertical, 4)
+                            
                     }
                 }
             }
